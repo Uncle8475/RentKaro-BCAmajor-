@@ -8,7 +8,8 @@ This repository contains the code for a Full stack car rental website with 3 mod
 
 Clone Rent a Ride
 
-```bashhttps://github.com/Uncle8475/RentKaro-BCAmajor-.git
+```bash
+https://github.com/Uncle8475/RentKaro-BCAmajor-.git
 ```
 
 Install node modules
